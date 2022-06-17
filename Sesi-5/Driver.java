@@ -1,9 +1,18 @@
-// public class Driver {
-//     public static void main(String[] args) {
-//         AnakUmur1Tahun i = new AnakUmur1Tahun();
+class Driver {
+    public static void main(String[] args){
 
-//         induk al = new AnakUmur1Tahun();
+        //bentuk 1 (class sendiri)
+        AnakUmur1Tahun i = new AnakUmur1Tahun();
+        i.anakSiapa();
+        i.makan();
 
-//         AktivitasPagi al = new AnakUmur1Tahun();
-//     }
-// }
+        //bentuk 2 (class lain)
+        induk a1 = new AnakUmur1Tahun();
+        a1.minum();
+
+        //bentuk 3 (interface)
+        AktivitasPagi a2 = new AnakUmur1Tahun();
+        a2.hobiAnak();
+
+    }    
+}
