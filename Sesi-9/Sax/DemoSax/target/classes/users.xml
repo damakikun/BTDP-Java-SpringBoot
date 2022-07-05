@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user id="1">
+        <id>26</id>
+        <name>Adam</name>
+        <gender>Male</gender>
+        <role>Java Developer</role>
+    </user>
+    <user id="2">
+        <id>35</id>
+        <name>Ghufron</name>
+        <gender>Male</gender>
+        <role>CEO</role>
+    </user>
+</users>

@@ -1,0 +1,17 @@
+<employees>
+    <employee id ="1">
+        <firstname>Adam</firstname>
+        <lastname>Ghufron</lastname>
+        <location>Indonesia</location>
+    </employee>
+    <employee id ="2">
+        <firstname>Damaki</firstname>
+        <lastname>Kun</lastname>
+        <location>Japan</location>
+    </employee>
+    <employee id ="3">
+        <firstname>Adam</firstname>
+        <lastname>D. Ghufron</lastname>
+        <location>New World</location>
+    </employee>
+</employees>
